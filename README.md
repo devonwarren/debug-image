@@ -25,3 +25,7 @@ Run whatever commands needed to debug the issue and then do a `kubectl delete my
 - jq
 - yq
 - dig
+- mysql-client
+- postgresql-client
+- s3cmd
+- nfs-common
